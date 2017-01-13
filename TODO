@@ -1,0 +1,18 @@
+TODO LIST
+============
+ * Add some badass class to automatically
+   handle chain_* functions
+
+ * Better formatting internal system (storage)
+
+ * New attachment types (cf nodeAttachments.py)
+
+ * important flag ?
+
+ * Improve image validation
+ * File header info (abbr, author...)
+ * Adding comments
+ * Output modules options
+ * Output filters ? (ex : correctly escaping HTML entities)
+ * Stream output (big files)
+ * cross platform path construction for latex_render

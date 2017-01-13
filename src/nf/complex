@@ -1,0 +1,24 @@
+FTNL Test
+	Purpose
+		Test the FTNL Parser in real conditions
+
+		Some further explanations
+		| Blah blah blah
+
+		[l] This is cool
+			IMAGE	
+			+ i test.jpg
+			| Look at that dude, isn't it beautiful ?
+
+			b
+			c
+			d
+		Go to google
+		+ u http://www.google.fr
+	Let's add some fun
+		[ol,c=php]TESTTTTTT
+		| Allright dude, this is cool
+			Yes
+			yes
+			yes
+

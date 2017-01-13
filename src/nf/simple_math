@@ -1,0 +1,5 @@
+Test MATHS
+	[m] Nœud dédié
+	| \forall k \in \mathbb{R}, k = 42
+
+	On ajoute du contenu inline $\mathbb{K}$
